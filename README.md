@@ -177,6 +177,8 @@ pnpm  install
 > - runcypress ➡️ ele executa o cypress no terminal
 > - cypressreporter ➡️ ele faz os testes no terminal gerando as pastas de `screnshots`, `videos` e `realtórios`
 
+---
+
   <br>
 
 **2. Inicie o VsCode e abar o terminal**<br>
