@@ -157,11 +157,13 @@ pnpm  install
 
 ## Usage
 
-> [!important]
+---
+
+> [!WARNING]
 >
 > Foram criados Scripts dentro do arquivo `package.json` que está na raiz do repositório para facilitar o uso da ferramenta 😊
->
-> <br>
+
+---
 
 <code>"scripts": {
 "cypress": "cypress open",
@@ -171,9 +173,10 @@ pnpm  install
 },
 </code>
 
-- cypress -> ele executa o Cypress abrindo a seu Cli
-- runcypress -> ele executa o cypress no terminal
-- cypressreporter -> ele faz os testes no terminal gerando as pastas de `screnshots`, `videos` e `realtórios`
+> - cypress ➡️ ele executa o Cypress abrindo a seu Cli
+> - runcypress ➡️ ele executa o cypress no terminal
+> - cypressreporter ➡️ ele faz os testes no terminal gerando as pastas de `screnshots`, `videos` e `realtórios`
+
   <br>
 
 **2. Inicie o VsCode e abar o terminal**<br>
