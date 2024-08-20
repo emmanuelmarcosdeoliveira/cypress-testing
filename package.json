@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress": "cypress",
+    "cypress": "cypress open",
+    "runcypress": "cypress run",
+    "cypressreporter": "cypress run --reporter mochawesome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "12.6.0"
+    "cypress": "12.6.0",
+    "mochawesome": "^7.1.3"
   }
 }

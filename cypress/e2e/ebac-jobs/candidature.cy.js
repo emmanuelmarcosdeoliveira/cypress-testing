@@ -16,10 +16,12 @@ describe("Tests para a pagina de  Candidature", () => {
     cy.get(".Vaga_vagaLink__DeFkk").first().click();
     // Abaixo estamos fazendo o test para verificar se na página existe 7 elementos de `input`
     cy.get("input").should("have.length", 7);
+    // Aqui estamos dando um comando para o Cypress para ele fazer Printo do Resultado
+    cy.screenshot("Tela-inscrição");
   });
   it("Deve preencher o formulário de inscrição", () => {
     // como estamos escrevendo um novo test temos que acessar o site novamente
-    cy.visit("https://ebac-jobs-e2e.vercel.app/");
+    // cy.visit("https://ebac-jobs-e2e.vercel.app/");
     // .first() método para fazer a verificação no primeiro elemento, quando temos mais de um como é o caso das `li's`
     // click() é o tipo de teste que o cypress estara fazendo
     // Abaixo estamos verificando se ao dar click em essa classe estamos acessando a página de candidatura
@@ -44,6 +46,9 @@ describe("Tests para a pagina de  Candidature", () => {
     // Abaixo estamos fazendo um test onde ele irá pegar o nosso alert como o método `cy.on` e verificar o contéudo do alert e ser corresponde a que estavamos esperando...
     cy.on("window:alert", (conteudo) => {
       expect(conteudo).contain("Obrigado pela candidatura!");
+      // Aqui estamos dando um comando para o Cypress para ele fazer Print do Resultado.
     });
+    cy.screenshot("Tela-cadastro");
+    cy.log()
   });
 });
