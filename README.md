@@ -1,16 +1,15 @@
 ![Banner](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif)
 
 <br>
-<!-- Badge do Projeto -->
-<div aling="center">
-
-![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=cypress&logoColor=%231F878F&logoSize=auto&label=Cypress%20&labelColor=%23fff&color=%231F878F&link=https%3A%2F%2Fwww.cypress.io%2F)
-
-</div>
 
 <!-- Titulo do Projeto -->
 
 # ✨Cypress Testing
+
+<!-- Badge do Projeto -->
+<div aling="right">
+<img src="https://img.shields.io/badge/--path?style=plastic&logo=cypress&logoColor=%231F878F&logoSize=auto&label=Cypress%20&labelColor=%23fff&color=%231F878F&link=https%3A%2F%2Fwww.cypress.io%2F" />
+</div>
 
 <div aling="center">
 <!-- Banner do Projeto -->
