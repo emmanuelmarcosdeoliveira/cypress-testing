@@ -7,7 +7,7 @@
 # ✨Cypress Testing
 
 <!-- Badge do Projeto -->
-<div aling="right">
+<div align="right">
 <img src="https://img.shields.io/badge/--path?style=plastic&logo=cypress&logoColor=%231F878F&logoSize=auto&label=Cypress%20&labelColor=%23fff&color=%231F878F&link=https%3A%2F%2Fwww.cypress.io%2F" />
 </div>
 
