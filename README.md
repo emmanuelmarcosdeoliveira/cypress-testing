@@ -157,10 +157,9 @@ pnpm  install
 
 ## Usage
 
-> [!NOTE]
 > Foram criados Scripts dentro do arquivo `package.json` que está na raiz do repositório para facilitar o uso da ferramenta 😊
 
----
+ <br>
 
 <code>"scripts": {
 "cypress": "cypress open",
@@ -169,12 +168,11 @@ pnpm  install
 "test": "echo \"Error: no test specified\" && exit 1"
 },
 </code>
+<br>
 
 > - cypress ➡️ ele executa o Cypress abrindo a seu Cli
 > - runcypress ➡️ ele executa o cypress no terminal
 > - cypressreporter ➡️ ele faz os testes no terminal gerando as pastas de `screnshots`, `videos` e `realtórios`
-
----
 
   <br>
 
@@ -193,11 +191,11 @@ pnpm  install
 \*\*Escolha um dos comandos descritos acima e execute no terminal
 
 ```bash
-pnpm  run cypress | "executa o cypress CLI"
+pnpm  run cypress |"Executa o cypress CLI"
 
-pnpm run runcypress | "Executa o cypress via terminal"
+pnpm run runcypress |"Executa o cypress via terminal"
 
-pnpm run cypressreporter |  "Executa o cypress via terminal e gera os relatórios, videos e screenShot"
+pnpm run cypressreporter |"Executa o cypress via terminal<br> e gera os relatórios, videos e screenShot"
 
 ```
 
@@ -287,4 +285,4 @@ Released in 2024 This project is under the **MIT license**<br>
 <br>
 <br>
 
-[`voltar ao topo`](#table-of-contents)
+[`voltar ao topo`](#cypress-testing)
