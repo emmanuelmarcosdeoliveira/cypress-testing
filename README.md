@@ -158,7 +158,6 @@ pnpm  install
 ## Usage
 
 > [!NOTE]
->
 > Foram criados Scripts dentro do arquivo `package.json` que está na raiz do repositório para facilitar o uso da ferramenta 😊
 
 ---
