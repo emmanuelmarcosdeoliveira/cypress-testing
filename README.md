@@ -1,12 +1,9 @@
 ![Banner](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif)
 
-<img height="100px" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/cypress.webp" />
-
-![Banner](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif)
-
 <br>
 <!-- Badge do Projeto -->
 <div aling="center">
+
 ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=cypress&logoColor=%231F878F&logoSize=auto&label=Cypress%20&labelColor=%23fff&color=%231F878F&link=https%3A%2F%2Fwww.cypress.io%2F)
 
 </div>
@@ -60,7 +57,7 @@ Ele é um framework de testes end-to-end de código aberto, projetado para simpl
 
 `Charlenge`
 
-- Aprender a fazer Testes E2E em aplicações de forma que eles se tornem mais confiaveis e seguros.
+- Aprender a fazer Testes iniciais `E2E` em aplicações de forma que eles se tornem mais confiaveis e seguros.
 
 ### Functionalities
 
@@ -68,7 +65,7 @@ Ele é um framework de testes end-to-end de código aberto, projetado para simpl
 - [x] **Gerar Teste a partir do Navegador do Cypress**<br>
 - [x] **Gerar Teste a partir do Terminal**<br>
 - [x] **Gerar screenShots e Videos dando mais credibilidade e confiança aos teste Aplicados**
-- [x] **Gerar Realátoris em Formato HTML**
+- [x] **Gerar Realátorios em Formato HTML**
 
 > [!TIP]
 >
@@ -90,12 +87,15 @@ Requisitos necessários para rodar o projeto:<br>
 
 `Node.js` `VSCode` `Git`
 
-> [!IMPORTANT]
+---
+
+> [!WARNING]
 >
 > - Run Time [Node.js](https://nodejs.org/en/) com a versão _16 ou superior_.<br>
 > - Um editor de códigos onde eu recomendo o [VCode](https://code.visualstudio.com/)<br>
 > - E o [git](https://git-scm.com/downloads) uma aplicação de versionamento de código.
 
+<br>
 <!-- > - Extensão do VSCode [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -->
 
 ### technologies and tools
