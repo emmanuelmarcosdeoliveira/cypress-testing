@@ -191,7 +191,7 @@ pnpm  run cypress |"Executa o cypress CLI"
 
 pnpm run runcypress |"Executa o cypress via terminal"
 
-pnpm run cypressreporter |"Executa o cypress via terminal &#xD;
+pnpm run cypressreporter |"Executa o cypress via terminal
 e gera os relatórios, videos e screenShot"
 
 ```
