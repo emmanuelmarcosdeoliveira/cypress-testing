@@ -24,7 +24,7 @@
 
 <!-- Badge de Forks -->
 
-![GitHub forks](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/contac-list?style=plastic&labelColor=%23000)
+![GitHub forks](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/cypress-testing?style=plastic&labelColor=%23000)
 
 - [Project description](#project-description)
   - [Functionalities](#functionalities)
