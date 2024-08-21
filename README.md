@@ -36,17 +36,16 @@
 - [Update](#update)
 - [References](#references)
 - [Contributors or owners](#contributors-or-owners)
-  - [Contribute-to-the-projects](#contribute-to-the-projects)
-- [Contact](#contact)
+  - [Contribute-to-the-projects](#contribute-to-the-projects) [Contact](#contact)
 - [License](#license)
 
 <!-- Descriçào do Projeto -->
 
 ## Project Description
 
-Esse Repositório foi desenvolvido para a prática inicial de testes com `cypress`<br>
+Esse Repositório foi desenvolvido para a prática inicial de testes com `cypress`
 Aprendi a fazer testes em aplicações fazendo o uso dessa Ferramenta.
-
+<br>
 Mais o que é **_Cypress ?_**<br>
 Ele é um framework de testes end-to-end de código aberto, projetado para simplificar o processo de criação, execução e depuração de testes em aplicações web. Ele permite que você escreva testes em JavaScript e interaja diretamente com o DOM (Document Object Model) do navegador, simulando ações do usuário de forma rápida e confiável.
 
@@ -163,13 +162,11 @@ pnpm  install
 <code>"scripts": {
 "cypress": "cypress open",
 "runcypress": "cypress run",
-"cypressreporter": "cypress run --reporter mochawesome",
-"test": "echo \"Error: no test specified\" && exit 1"
-},
+"cypressreporter": "cypress run --reporter mochawesome",}
 </code>
 <br>
 
-> - cypress ➡️ ele executa o Cypress abrindo a seu Cli
+> - cypress ➡️ ele executa o Cypress abrindo a sua interface
 > - runcypress ➡️ ele executa o cypress no terminal
 > - cypressreporter ➡️ ele faz os testes no terminal gerando as pastas de `screnshots`, `videos` e `realtórios`
 
@@ -194,7 +191,8 @@ pnpm  run cypress |"Executa o cypress CLI"
 
 pnpm run runcypress |"Executa o cypress via terminal"
 
-pnpm run cypressreporter |"Executa o cypress via terminal<br> e gera os relatórios, videos e screenShot"
+pnpm run cypressreporter |"Executa o cypress via terminal &#xD;
+e gera os relatórios, videos e screenShot"
 
 ```
 
@@ -226,7 +224,7 @@ pnpm run cypressreporter |"Executa o cypress via terminal<br> e gera os relatór
 by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 &copy; Todos os Direitos Reservados
 
-### Contribute to the projects
+## Contribute to the projects
 
 <details>
 <summary>Como fazer uma contribuição ao Projeto ?</summary>
