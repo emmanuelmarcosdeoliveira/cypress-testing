@@ -13,7 +13,7 @@
 
 <div aling="center">
 <!-- Banner do Projeto -->
-<img height="100px" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/cypress.webp" />
+<img height="100px" src="./imgs/banner cypress.jpg" />
 
 </div>
 
